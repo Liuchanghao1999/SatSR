@@ -1,6 +1,6 @@
 # SatSR
 
-SatSR is a mobile edge computing (MEC)-based super-resolution (SR)-enhanced adaptive video streaming system for mobile networks with satellite backhauls. We open sourced the SR scale factor adaptation algorithm.
+SatSR is a mobile edge computing (MEC)-based super-resolution (SR)-enhanced adaptive video streaming system for mobile networks with satellite backhauls. We open sourced the chunk-level simulator and DRL-based SR Scale Factor adaptation Algorithm.
 
 
 
